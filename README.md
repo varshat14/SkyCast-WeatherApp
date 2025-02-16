@@ -7,4 +7,4 @@ Install the packages by using the command - npm install
 
     ![image](https://github.com/user-attachments/assets/3d5b2f05-a1f2-4b8b-a489-fd82095bb684)
 
-    ![image](https://github.com/user-attachments/assets/8e8e46af-ad83-4016-af97-86bec3e14f96)
+    ![image](https://github.com/user-attachments/assets/e998baf6-e3e8-425c-ab91-5b09ef1eac62)
